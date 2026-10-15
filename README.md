@@ -1,6 +1,6 @@
-# Capa Docker 3
+# Capa Docker 4
 
-### Codigo para el 3er taller de Docker [@vanttec](https://www.github.com/vanttec)
+### Codigo para el 4to taller de Docker [@vanttec](https://www.github.com/vanttec)
 
 ---
 
@@ -14,5 +14,4 @@
 ---
 
 ## Links: 
-* [Liga de la presentacion](https://docs.google.com/presentation/d/1ctbxn0hxcof3sFFcTF-EBctwiiq-BUPQSa7KzUeb_gE/edit?usp=sharing)
-* [Grabacion de la sesion]()
+* [Liga de la presentacion](https://docs.google.com/presentation/d/1b9GXRAeFmigSkEXZR33bljT_awdKK19eqbxCumyP8V8/edit?usp=sharing)
